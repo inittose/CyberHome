@@ -1,6 +1,11 @@
 # [ХАКАТОН 2023](https://drive.google.com/drive/folders/12tyJzfepMUN2mBHCi98_oRHNJ692Bd5w)
-#### Период проведения: 9-10 декабря 2023 года. Задание, требования и [библиотеки](https://github.com/MAKblC/Codes/tree/master) представленны в [регламенте](https://drive.google.com/drive/folders/12tyJzfepMUN2mBHCi98_oRHNJ692Bd5w).
+#### Период проведения: 9-10 декабря 2023 года. Задание, требования и [библиотеки](https://github.com/MAKblC/Codes/tree/master) представленны в [регламенте](https://docs.google.com/document/d/1pw5rlWQ5R-CWj36TRvj3xeiWIyjWCUPZCtTaMNuIDK0/edit?usp=sharing).
 
+## Важные ссылки:
+- [Перечень файлов Хакатона](https://drive.google.com/drive/folders/12tyJzfepMUN2mBHCi98_oRHNJ692Bd5w)
+- [Регламент](https://docs.google.com/document/d/1pw5rlWQ5R-CWj36TRvj3xeiWIyjWCUPZCtTaMNuIDK0/edit?usp=sharing)
+- [Документация/Примеры к IOTIK32](https://github.com/MAKblC/IoTik32/tree/main)
+- [Библиотеки для IOTIK32](https://github.com/MAKblC/Codes/tree/master)
 
 ## Перечень [библиотек](https://github.com/MAKblC/Codes/tree/master) по заданиям:
 1. [MGS-THP80](https://github.com/MAKblC/Codes/tree/master/MGS-THP80) или ([Adafruit_Sensor
